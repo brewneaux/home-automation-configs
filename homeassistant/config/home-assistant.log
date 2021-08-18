@@ -1,0 +1,11 @@
+2021-08-16 22:10:47 WARNING (Recorder) [homeassistant.components.recorder.util] The system could not validate that the sqlite3 database at //config/home-assistant_v2.db was shutdown cleanly
+2021-08-16 22:10:47 WARNING (Recorder) [homeassistant.components.recorder.util] Ended unfinished session (id=4 from 2021-08-13 17:34:04.249113)
+2021-08-16 22:29:34 WARNING (MainThread) [homeassistant.components.homekit.type_remotes] media_player.samsung_7_series_65: Sources out of sync. Restart Home Assistant
+2021-08-16 22:29:34 WARNING (MainThread) [homeassistant.components.homekit.type_remotes] media_player.samsung_7_series_65: Sources out of sync. Restart Home Assistant
+2021-08-17 02:15:45 WARNING (Thread-6) [pychromecast.socket_client] [Bathroom speaker(192.168.1.117):8009] Heartbeat timeout, resetting connection
+2021-08-17 02:15:48 ERROR (Thread-6) [pychromecast.socket_client] [Bathroom speaker(192.168.1.117):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.117', 8009)), retrying in 5.0s
+2021-08-17 03:48:07 ERROR (Thread-7) [pychromecast.socket_client] [Kitchen Display(192.168.1.217):8009] Error reading from socket.
+2021-08-17 03:48:07 WARNING (Thread-7) [pychromecast.socket_client] [Kitchen Display(192.168.1.217):8009] Error communicating with socket, resetting connection
+2021-08-17 03:48:07 ERROR (Thread-7) [pychromecast.socket_client] [Kitchen Display(192.168.1.217):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.217', 8009)), retrying in 5.0s
+2021-08-17 16:22:18 WARNING (MainThread) [homeassistant.components.homekit.type_remotes] media_player.samsung_7_series_65: Sources out of sync. Restart Home Assistant
+2021-08-17 16:52:27 WARNING (MainThread) [homeassistant.components.homekit.type_remotes] media_player.samsung_7_series_65: Sources out of sync. Restart Home Assistant

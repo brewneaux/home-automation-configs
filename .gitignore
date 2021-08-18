@@ -1,0 +1,8 @@
+homeassistant/config/ip_bans.yaml
+homeassistant/config/secrets.yaml
+homeassistant/config/known_devices.yaml
+homeassistant/config/.storage
+homeassistant/config/.cloud
+*.db*
+*.pem
+*.swp
